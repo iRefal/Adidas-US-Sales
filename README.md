@@ -1,5 +1,7 @@
 📊 Sales Performance Dashboard (Excel)
 This dashboard was built in Excel to analyze Adidas sales performance in the United States over the years 2020 and 2021.
+<img width="2233" height="897" alt="Adidas US Sales" src="https://github.com/user-attachments/assets/02cf3117-0533-40a3-a7fa-85c0efafd1fb" />
+
 
 KPIs: Total Sales ($899,902,125), Total Profit ($332,134,761.45), Sales Growth, and Top-Performing Products.
 
